@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties manifesto to the kingdome of Ireland. Undertaken and published by the Marquesse of Clanrickard. Assuring them of the Kings hand, the Queen and Prince of Wales their engagements, and the assurance of the Crown of France for performance thereof. And that the Marquesse of Ormond shall punctually observe (during the Kings want of freedome) such commands from the Queen and Prince of Wales, as shall be signified unto him by the Lord Digby (as principall Secretary of State;) and not obey what is commanded by his Majesty in any restraint. As also for the calling a free Parliament, procuring acts of oblivion, and other desires of the Catholickes of that kingdome. Signed by the Marquesse of Clanrickard. January 19. 1646. These papers of the Marquesse of Clanrickards undertakings between his Majesty and the kingdome of Ireland, are examined and printed according to order of Parliament.</title>
+            <author>Clanricarde, Ulick de Burgh, Earl of, 1604-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78875</idno>
+            <idno type="STC">Wing C2427</idno>
+            <idno type="STC">Thomason E371_11</idno>
+            <idno type="STC">ESTC R201307</idno>
+            <idno type="EEBO-CITATION">99861831</idno>
+            <idno type="PROQUEST">99861831</idno>
+            <idno type="VID">113976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E371[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties manifesto to the kingdome of Ireland. Undertaken and published by the Marquesse of Clanrickard. Assuring them of the Kings hand, the Queen and Prince of Wales their engagements, and the assurance of the Crown of France for performance thereof. And that the Marquesse of Ormond shall punctually observe (during the Kings want of freedome) such commands from the Queen and Prince of Wales, as shall be signified unto him by the Lord Digby (as principall Secretary of State;) and not obey what is commanded by his Majesty in any restraint. As also for the calling a free Parliament, procuring acts of oblivion, and other desires of the Catholickes of that kingdome. Signed by the Marquesse of Clanrickard. January 19. 1646. These papers of the Marquesse of Clanrickards undertakings between his Majesty and the kingdome of Ireland, are examined and printed according to order of Parliament.</title>
+                  <author>Clanricarde, Ulick de Burgh, Earl of, 1604-1657.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.G.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Page 1 is the only numbered page.</note>
+                  <note>Annotation on Thomason copy: "Jan: 19th. 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Great Britain --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113976:1" rendition="simple:additions"/>
+            <p>THE KINGS MAIESTIES MANIFESTO To the Kingdome of IRELAND. Undertaken and publiſhed <hi>By the Marqueſſe of Clanrickard.</hi>
+            </p>
+            <p>Aſſuring them of the Kings hand, the Queen and Prince of Wales their engagements, and the aſſurance of the Crown of <hi>France</hi> for performance thereof.</p>
+            <p>And that the Marqueſſe of <hi>Ormond</hi> ſhall punctually obſerve (during the Kings want of freedome) ſuch commands from the Queene and Prince of Wales, as ſhall be ſignified unto him by the Lord <hi>Digby</hi> (as principall Secretary of State;) and not obey what is commanded by his Majeſty in any Reſtraint.</p>
+            <p>As alſo for the calling a free Parliament, procuring Acts of Oblivion, and other deſires of the Catholickes of that Kingdome. <hi>Signed by the Marqueſſe of Clanrickard.</hi>
+            </p>
+            <p>January 19. 1646. <hi>Theſe Papers of the Marqueſſe of Clanrickards undertakings between his Majeſty and the Kingdome of Ireland, are exa<g ref="char:EOLhyphen"/>mined and printed according to ORDER of PARLI<g ref="char:EOLhyphen"/>MENT.</hi>
+            </p>
+            <p>
+               <hi>Printed by</hi> I. G. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113976:2"/>
+            <pb n="1" facs="tcp:113976:2"/>
+            <head>THE MARQVES OF CLANRICKARD <hi>His undertaking for the King,</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Of the 19, of November, 1646.</date>
+               </dateline>
+            </opener>
+            <p>UPon the Ingagements and Proteſtations of <hi>the Generals, Nobilitie,</hi> and <hi>Officers</hi> of <hi>the Confederate Catholique</hi> Forces, I
+<pb facs="tcp:113976:3"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>llick,</hi> Marqueſſe of <hi>Clanrickard,</hi> doe on my part ſolemnly binde and engage my ſelfe unto them, by the Reputation and Honour of a Peere, and by ſacred Proteſtations upon the Faith of a <hi>Catholicque,</hi> in the preſence of Almighty GOD, <hi>That I will procure the enſuing undertakings to be made good unto them, within ſuch con<g ref="char:EOLhyphen"/>venient time, as Securities of that which are to bee fettched from beyond Sea, can well bee procured: or failing therein, to unite my ſelfe to their par<g ref="char:EOLhyphen"/>ties, and never to ſever from them, and theſe their intereſt, till</hi> I <hi>have ſecu<g ref="char:EOLhyphen"/>red them unto them.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>Firſt, that there be a <hi>Revocation</hi> by Act of <hi>Parli<g ref="char:EOLhyphen"/>ment</hi> of all the Lawes in force within this King<g ref="char:EOLhyphen"/>dome,
+<pb facs="tcp:113976:3"/>in as much of them as ſhall concern any pe<g ref="char:EOLhyphen"/>nalty, inhibition, or reſtraint on the <hi>Catholiques</hi> of the free exerciſe of their religion.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Secondly, that they ſhall not be diſturbed in the enjoyment of their Churches, or any other Eccleſia<g ref="char:EOLhyphen"/>aſticall poſſeſſions, which were in their hands at the publication of the late PEACE, untill that matter, with other referred already, receive a ſettlement up<g ref="char:EOLhyphen"/>on a <hi>Declaration</hi> of his M jeſties gracious Inſtru<g ref="char:EOLhyphen"/>ctions in a free Parliament, held in this Kingdom, his Majeſty being in a free condition himſelfe.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>And I doe further engage my ſelfe, never to con<g ref="char:EOLhyphen"/>ſent to any thing that may bring them in hazard of being diſpoſſeſſed, and never to ſever my ſelfe from them, untill I ſee them ſo ſecured therein by <hi>Com<g ref="char:EOLhyphen"/>miſsion,</hi> or by their <hi>Truſt,</hi> or <hi>Power</hi> from his <hi>Maje<g ref="char:EOLhyphen"/>ſty</hi> in the prime <hi>Garriſons</hi> in this <hi>Kingdom,</hi> to put them out of all danger of being diſpoſſeſſed.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>And I doe further engage my ſelf, that forthwith there ſhall be a <hi>Catholick Lieutenant Generall</hi> of all the F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rces of this Kingdome, by his Majeſties Authority, and that the <hi>Generals,</hi> or either of them, ſigned to the ſaid engagements, ſhall forthwith bee inveſted by the Kings Majeſties Authoritie, with principall commands worthy of them in the ſtanding Army in this Kingdome. And likewiſe
+<pb facs="tcp:113976:4"/>in ſome important Garriſons now under his Maje<g ref="char:EOLhyphen"/>ſties obedience, and that a conſiderable number of the confederate Catholicke Forces, ſhall immediatly be drawn into all the chiefe Garriſons under his Ma<g ref="char:EOLhyphen"/>jeſties obedience.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>And I doe further aſſure proportionable advanta<g ref="char:EOLhyphen"/>ges to ſuch of any other <hi>Armies</hi> in this Kingdome, as ſhall in like manner ſubmit unto the <hi>Peace,</hi> and his Majeſties Authority, and for the ſecurity of as many of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe particulars as ſhall not be forthwith per<g ref="char:EOLhyphen"/>formed and made good unto them, by the fore<g ref="char:EOLhyphen"/>ſaid Marqueſſe of <hi>Ormond,</hi> his Majeſties Lieutenant Generall of this Kingdome, I will procure them the <hi>Kings hand,</hi> the <hi>Queene</hi> and <hi>Prince of Wales</hi> ingage<g ref="char:EOLhyphen"/>ments, and an ingagement of the Crown of <hi>France,</hi> to ſee the ſame performed unto them. And further, for their aſſurance that the <hi>Lord Lieutenant</hi> ſhall en<g ref="char:EOLhyphen"/>gage himſelfe punctually to obſerve ſuch free com<g ref="char:EOLhyphen"/>mands as he ſhall receive from his Majeſty to the furtherance and advantage of the <hi>Catholiques</hi> of this Kingdome, or (during the <hi>Kings</hi> want of freedome) from the <hi>Queen</hi> and <hi>Prince of Wales,</hi> as ſhall be ſigni<g ref="char:EOLhyphen"/>fied unto him (as the Kings poſitive pleaſure) by the <hi>Lord Digby,</hi> as principall <hi>Secretary</hi> of State. And fur<g ref="char:EOLhyphen"/>ther, that whilſt the King ſhall be in an unfree con<g ref="char:EOLhyphen"/>dition, hee will not obey any Orders that ſhall bee procured from his Majeſty, by advantage of his Ma<g ref="char:EOLhyphen"/>jeſties want of freedome, to the prejudice of what is undertaken.</p>
+            </div>
+            <div n="6" type="part">
+               <pb facs="tcp:113976:4"/>
+               <head>VI.</head>
+               <p>And laſtly I do proteſt that I ſhall never eſteeme my ſelfe diſcharged from this ingagement by any power or authoritie whatſoever, provided on both parts that this engagement and undertaking be not underſtood or intended to debarre or hinder His Majeſties Catholick Subjects of this Kingdome from the benefit of any further grace, and favours which His Majeſtie may be graciouſly induced to conferr unto them, upon the Queenes Majeſties me<g ref="char:EOLhyphen"/>dication, or any other Treatie abroad, with his ho<g ref="char:EOLhyphen"/>lineſſe.</p>
+            </div>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>And I do further engage my ſelfe to im<g ref="char:EOLhyphen"/>ploy my utmoſt endeavours and power by way of Petition and perſwaſion unto His Majeſtie, to afford all the ſubjects of this Kingdome that ſhall appeare to have been injured in their Eſtate, redreſſes in the next free Parliament.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>And I do alſo further undertake, that all perſons joyning, or that ſhall joyne with the preſent ingagement, ſhall be included in the Act of oblivion, promiſed in the Ar<g ref="char:EOLhyphen"/>ticles of peace for Acts done by them ſince
+<pb facs="tcp:113976:5"/>the publication of the ſaid peace, unto the date of the ſaid ingagement.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Dated</hi> 
+                  <date>Novemb. 19. 1646.</date>
+               </dateline>
+               <signed>Signed CLANRJCKARD.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
